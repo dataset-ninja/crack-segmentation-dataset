@@ -58,6 +58,8 @@ PAPER: Optional[Union[str, List[str]]] = [
     "https://ieeexplore.ieee.org/abstract/document/7471507",
     "https://ieeexplore.ieee.org/abstract/document/7572082",
     "https://www.sciencedirect.com/science/article/abs/pii/S0167865511003795",
+    "https://www.researchgate.net/profile/Liang-Yang-52/publication/319333841_Deep_Concrete_Inspection_Using_Unmanned_Aerial_Vehicle_Towards_CSSC_Database/links/59e0e27a458515393d4ed035/Deep-Concrete-Inspection-Using-Unmanned-Aerial-Vehicle-Towards-CSSC-Database.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0925231219300566",
 ]
 CITATION_URL: Optional[
     str
@@ -95,6 +97,17 @@ AUTHORS: Optional[List[str]] = [
     "Li, Qingquan",
     "Mao, Qingzhou",
     "Wang, Song",
+    "Liu, Yahui",
+    "Yao, Jian",
+    "Lu, Xiaohu",
+    "Xie, Renping",
+    "Li, Li",
+    "Liang Yang",
+    "Bing Li",
+    "Wei Li",
+    "Zhaoming Liu",
+    "Guoyong Yang",
+    "Jizhong Xiao",
     "Lakshay Middha",
 ]
 
